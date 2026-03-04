@@ -26,8 +26,6 @@
   <br>• Full CQRS warehouse management app deployed on Azure
 </p>
 
-<h3 align="center">Featured Projects</h3>
-
 <p align="center">
   <!-- GitHub will automatically display your 6 pinned repositories here -->
 </p>
